@@ -13,7 +13,7 @@ API Integration: Expose client profiles through an API
 #Installation
 Make sure you have Python installed
 1. Clone the repository:
-   git clone git@github.com:Carister/HIS.git
+   git clone [git@github.com:Carister/HIS.git](https://github.com/Carister/HIS.git)
 2. Create a virtual environment and activate it
    python -m venv venv
    source venv/bin/activate
