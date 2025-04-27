@@ -1,0 +1,3 @@
+clients = []
+programs = []
+users = []
