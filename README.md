@@ -1,6 +1,7 @@
 This is a Health Information System built with Flask, designed to manage clients and health programs. 
 The system allows for the creation of health programs, client registration, client enrollment in health programs, and viewing client profiles. 
 It also exposes client profiles via a RESTful API for external systems to access.
+Deployment to AWS Cloud is in progress
 
 #Features
 Health Program Management: Create and manage health programs.
